@@ -1,0 +1,153 @@
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:40:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m40 |[0m  it should [31m"calculate the correct checksum for a given data string 2 (TOY)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:53:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m53 |[0m  it should [31m"calculate the correct checksum for a given data string 3 (TOY)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:66:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m66 |[0m  it should [31m"calculate the correct checksum for a given data string 4 (TOY)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:80:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m80 |[0m  it should [31m"calculate the correct checksum for a given data string 5 (TOY)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:94:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m94 |[0m  it should [31m"calculate the correct checksum for a given data string 6 (TOY)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:106:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m106 |[0m  it should [31m"calculate the correct checksum for a given data string 7 (TOY)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:118:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m118 |[0m  it should [31m"calculate the correct checksum for a given data string 8 (TOY)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:132:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m132 |[0m  it should [31m"calculate the correct checksum for a given data string 9 (TOY)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:146:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m146 |[0m  it should [31m"calculate the correct checksum for a given data string 10 (TOY)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:174:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m174 |[0m  it should [31m"calculate the correct checksum for a given data string 2 (PEQUEÑA)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:187:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m187 |[0m  it should [31m"calculate the correct checksum for a given data string 3 (PEQUEÑA)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:200:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m200 |[0m  it should [31m"calculate the correct checksum for a given data string 4 (PEQUEÑA)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:214:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m214 |[0m  it should [31m"calculate the correct checksum for a given data string 5 (PEQUEÑA)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:227:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m227 |[0m  it should [31m"calculate the correct checksum for a given data string 6 (PEQUEÑA)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:241:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m241 |[0m  it should [31m"calculate the correct checksum for a given data string 7 (PEQUEÑA)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:255:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m255 |[0m  it should [31m"calculate the correct checksum for a given data string 8 (PEQUEÑA)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:269:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m269 |[0m  it should [31m"calculate the correct checksum for a given data string 9 (PEQUEÑA)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:283:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m283 |[0m  it should [31m"calculate the correct checksum for a given data string 10 (PEQUEÑA)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:300:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m300 |[0m  [31m"DualCheckSum"[0m should [31m"calculate the correct checksum for a given data string 1 (MEDIANA)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:313:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m313 |[0m  it should [31m"calculate the correct checksum for a given data string 2 (MEDIANA)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:326:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m326 |[0m  it should [31m"calculate the correct checksum for a given data string 3 (MEDIANA)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:339:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m339 |[0m  it should [31m"calculate the correct checksum for a given data string 4 (MEDIANA)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:352:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m352 |[0m  it should [31m"calculate the correct checksum for a given data string 5 (MEDIANA)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:365:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m365 |[0m  it should [31m"calculate the correct checksum for a given data string 6 (MEDIANA)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:378:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m378 |[0m  it should [31m"calculate the correct checksum for a given data string 7 (MEDIANA)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:391:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m391 |[0m  it should [31m"calculate the correct checksum for a given data string 8 (MEDIANA)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:404:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m404 |[0m  it should [31m"calculate the correct checksum for a given data string 9 (MEDIANA)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:417:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m417 |[0m  it should [31m"calculate the correct checksum for a given data string 10 (MEDIANA)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:432:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m432 |[0m  [31m"DualCheckSum"[0m should [31m"calculate the correct checksum for a given data string 1 (GRANDE)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:445:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m445 |[0m  it should [31m"calculate the correct checksum for a given data string 2 (GRANDE)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:458:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m458 |[0m  it should [31m"calculate the correct checksum for a given data string 3 (GRANDE)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:471:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m471 |[0m  it should [31m"calculate the correct checksum for a given data string 4 (GRANDE)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:484:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m484 |[0m  it should [31m"calculate the correct checksum for a given data string 5 (GRANDE)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:497:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m497 |[0m  it should [31m"calculate the correct checksum for a given data string 6 (GRANDE)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:510:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m510 |[0m  it should [31m"calculate the correct checksum for a given data string 7 (GRANDE)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:523:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m523 |[0m  it should [31m"calculate the correct checksum for a given data string 8 (GRANDE)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:536:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m536 |[0m  it should [31m"calculate the correct checksum for a given data string 9 (GRANDE)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\ASUS\Desktop\2023-2t2-team-e7\Implementacion\src\test\scala\TestChecksumDual.scala:549:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m549 |[0m  it should [31m"calculate the correct checksum for a given data string 10 (GRANDE)"[0m in {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m38 warnings found[0m

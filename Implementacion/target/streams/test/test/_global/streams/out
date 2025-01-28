@@ -1,0 +1,110 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TestAuxStringToAsciiList, org.scalatest.tools.Framework$$anon$1@316a46e9, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TestChecksumSingle, org.scalatest.tools.Framework$$anon$1@316a46e9, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TestChecksumDual, org.scalatest.tools.Framework$$anon$1@316a46e9, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTestAuxStringToAsciiList:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mStrinToAscii[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Test 1: Empty string should return an empty list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Test 2: Block size greater than string length should return a list with ASCII values of characters[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Test 3: Block size equal to string length should return a list with ASCII values of characters[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Test 4: Block size less than string length should return a list with ASCII values of characters in blocks[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Test 5: Special characters in the string should be converted to ASCII values[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Test 6: Mix of uppercase and lowercase characters in the string[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTestChecksumSingle:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSingleCheckSum[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 1 (TOY)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 2 (TOY)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 3 (TOY)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 4 (TOY)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 5 (TOY)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 6 (TOY)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 7 (TOY)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 8 (TOY)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 9 (TOY)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 10 (TOY)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSingleCheckSum[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 1 (PEQUEÑA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 2 (PEQUEÑA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 3 (PEQUEÑA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 4 (PEQUEÑA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 5 (PEQUEÑA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 6 (PEQUEÑA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 7 (PEQUEÑA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 8 (PEQUEÑA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 9 (PEQUEÑA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 10 (PEQUEÑA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSingleCheckSum[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 1 (MEDIANA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 2 (MEDIANA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 3 (MEDIANA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 4 (MEDIANA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 5 (MEDIANA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 6 (MEDIANA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 7 (MEDIANA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 8 (MEDIANA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 9 (MEDIANA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 10 (MEDIANA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSingleCheckSum[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 1 (GRANDE)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 2 (GRANDE)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 3 (GRANDE)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 4 (GRANDE)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 5 (GRANDE)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 6 (GRANDE)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 7 (GRANDE)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 8 (GRANDE)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 9 (GRANDE)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 10 (GRANDE)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTestChecksumDual:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDualCheckSum[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 1 (TOY)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 2 (TOY)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 3 (TOY)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 4 (TOY)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 5 (TOY)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 6 (TOY)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 7 (TOY)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 8 (TOY)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 9 (TOY)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 10 (TOY)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDualCheckSum[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 1 (PEQUEÑA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 2 (PEQUEÑA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 3 (PEQUEÑA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 4 (PEQUEÑA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 5 (PEQUEÑA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 6 (PEQUEÑA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 7 (PEQUEÑA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 8 (PEQUEÑA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 9 (PEQUEÑA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 10 (PEQUEÑA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDualCheckSum[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 1 (MEDIANA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 2 (MEDIANA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 3 (MEDIANA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 4 (MEDIANA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 5 (MEDIANA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 6 (MEDIANA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 7 (MEDIANA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 8 (MEDIANA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 9 (MEDIANA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 10 (MEDIANA)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDualCheckSum[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 1 (GRANDE)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 2 (GRANDE)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 3 (GRANDE)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 4 (GRANDE)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 5 (GRANDE)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 6 (GRANDE)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 7 (GRANDE)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 8 (GRANDE)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 9 (GRANDE)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the correct checksum for a given data string 10 (GRANDE)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 4 seconds, 637 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 86[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 3, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 86, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestAuxStringToAsciiList[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestChecksumSingle[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestChecksumDual[0m

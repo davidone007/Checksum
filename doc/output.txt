@@ -1,0 +1,103 @@
+TestAuxStringToAsciiList:
+[info] StrinToAscii
+[info] - should Test 1: Empty string should return an empty list
+[info] - should Test 2: Block size greater than string length should return a list with ASCII values of characters
+[info] - should Test 3: Block size equal to string length should return a list with ASCII values of characters
+[info] - should Test 4: Block size less than string length should return a list with ASCII values of characters in blocks
+[info] - should Test 5: Special characters in the string should be converted to ASCII values
+[info] - should Test 6: Mix of uppercase and lowercase characters in the string
+[info] TestChecksumSingle:
+[info] SingleCheckSum
+[info] - should calculate the correct checksum for a given data string 1 (TOY)
+[info] - should calculate the correct checksum for a given data string 2 (TOY)
+[info] - should calculate the correct checksum for a given data string 3 (TOY)
+[info] - should calculate the correct checksum for a given data string 4 (TOY)
+[info] - should calculate the correct checksum for a given data string 5 (TOY)
+[info] - should calculate the correct checksum for a given data string 6 (TOY)
+[info] - should calculate the correct checksum for a given data string 7 (TOY)
+[info] - should calculate the correct checksum for a given data string 8 (TOY)
+[info] - should calculate the correct checksum for a given data string 9 (TOY)
+[info] - should calculate the correct checksum for a given data string 10 (TOY)
+[info] SingleCheckSum
+[info] - should calculate the correct checksum for a given data string 1 (PEQUE├æA)
+[info] - should calculate the correct checksum for a given data string 2 (PEQUE├æA)
+[info] - should calculate the correct checksum for a given data string 3 (PEQUE├æA)
+[info] - should calculate the correct checksum for a given data string 4 (PEQUE├æA)
+[info] - should calculate the correct checksum for a given data string 5 (PEQUE├æA)
+[info] - should calculate the correct checksum for a given data string 6 (PEQUE├æA)
+[info] - should calculate the correct checksum for a given data string 7 (PEQUE├æA)
+[info] - should calculate the correct checksum for a given data string 8 (PEQUE├æA)
+[info] - should calculate the correct checksum for a given data string 9 (PEQUE├æA)
+[info] - should calculate the correct checksum for a given data string 10 (PEQUE├æA)
+[info] SingleCheckSum
+[info] - should calculate the correct checksum for a given data string 1 (MEDIANA)
+[info] - should calculate the correct checksum for a given data string 2 (MEDIANA)
+[info] - should calculate the correct checksum for a given data string 3 (MEDIANA)
+[info] - should calculate the correct checksum for a given data string 4 (MEDIANA)
+[info] - should calculate the correct checksum for a given data string 5 (MEDIANA)
+[info] - should calculate the correct checksum for a given data string 6 (MEDIANA)
+[info] - should calculate the correct checksum for a given data string 7 (MEDIANA)
+[info] - should calculate the correct checksum for a given data string 8 (MEDIANA)
+[info] - should calculate the correct checksum for a given data string 9 (MEDIANA)
+[info] - should calculate the correct checksum for a given data string 10 (MEDIANA)
+[info] SingleCheckSum
+[info] - should calculate the correct checksum for a given data string 1 (GRANDE)
+[info] - should calculate the correct checksum for a given data string 2 (GRANDE)
+[info] - should calculate the correct checksum for a given data string 3 (GRANDE)
+[info] - should calculate the correct checksum for a given data string 4 (GRANDE)
+[info] - should calculate the correct checksum for a given data string 5 (GRANDE)
+[info] - should calculate the correct checksum for a given data string 6 (GRANDE)
+[info] - should calculate the correct checksum for a given data string 7 (GRANDE)
+[info] - should calculate the correct checksum for a given data string 8 (GRANDE)
+[info] - should calculate the correct checksum for a given data string 9 (GRANDE)
+[info] - should calculate the correct checksum for a given data string 10 (GRANDE)
+[info] TestChecksumDual:
+[info] DualCheckSum
+[info] - should calculate the correct checksum for a given data string 1 (TOY)
+[info] - should calculate the correct checksum for a given data string 2 (TOY)
+[info] - should calculate the correct checksum for a given data string 3 (TOY)
+[info] - should calculate the correct checksum for a given data string 4 (TOY)
+[info] - should calculate the correct checksum for a given data string 5 (TOY)
+[info] - should calculate the correct checksum for a given data string 6 (TOY)
+[info] - should calculate the correct checksum for a given data string 7 (TOY)
+[info] - should calculate the correct checksum for a given data string 8 (TOY)
+[info] - should calculate the correct checksum for a given data string 9 (TOY)
+[info] - should calculate the correct checksum for a given data string 10 (TOY)
+[info] DualCheckSum
+[info] - should calculate the correct checksum for a given data string 1 (PEQUE├æA)
+[info] - should calculate the correct checksum for a given data string 2 (PEQUE├æA)
+[info] - should calculate the correct checksum for a given data string 3 (PEQUE├æA)
+[info] - should calculate the correct checksum for a given data string 4 (PEQUE├æA)
+[info] - should calculate the correct checksum for a given data string 5 (PEQUE├æA)
+[info] - should calculate the correct checksum for a given data string 6 (PEQUE├æA)
+[info] - should calculate the correct checksum for a given data string 7 (PEQUE├æA)
+[info] - should calculate the correct checksum for a given data string 8 (PEQUE├æA)
+[info] - should calculate the correct checksum for a given data string 9 (PEQUE├æA)
+[info] - should calculate the correct checksum for a given data string 10 (PEQUE├æA)
+[info] DualCheckSum
+[info] - should calculate the correct checksum for a given data string 1 (MEDIANA)
+[info] - should calculate the correct checksum for a given data string 2 (MEDIANA)
+[info] - should calculate the correct checksum for a given data string 3 (MEDIANA)
+[info] - should calculate the correct checksum for a given data string 4 (MEDIANA)
+[info] - should calculate the correct checksum for a given data string 5 (MEDIANA)
+[info] - should calculate the correct checksum for a given data string 6 (MEDIANA)
+[info] - should calculate the correct checksum for a given data string 7 (MEDIANA)
+[info] - should calculate the correct checksum for a given data string 8 (MEDIANA)
+[info] - should calculate the correct checksum for a given data string 9 (MEDIANA)
+[info] - should calculate the correct checksum for a given data string 10 (MEDIANA)
+[info] DualCheckSum
+[info] - should calculate the correct checksum for a given data string 1 (GRANDE)
+[info] - should calculate the correct checksum for a given data string 2 (GRANDE)
+[info] - should calculate the correct checksum for a given data string 3 (GRANDE)
+[info] - should calculate the correct checksum for a given data string 4 (GRANDE)
+[info] - should calculate the correct checksum for a given data string 5 (GRANDE)
+[info] - should calculate the correct checksum for a given data string 6 (GRANDE)
+[info] - should calculate the correct checksum for a given data string 7 (GRANDE)
+[info] - should calculate the correct checksum for a given data string 8 (GRANDE)
+[info] - should calculate the correct checksum for a given data string 9 (GRANDE)
+[info] - should calculate the correct checksum for a given data string 10 (GRANDE)
+[info] Run completed in 4 seconds, 637 milliseconds.
+[info] Total number of tests run: 86
+[info] Suites: completed 3, aborted 0
+[info] Tests: succeeded 86, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
